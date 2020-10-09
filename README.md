@@ -1,3 +1,3 @@
 # NeuralNetwork
  
-University assigment - Neural network with sigmoid and ReLu activation functions (python).
+University assignment - Neural network with sigmoid and ReLu activation functions (python).
